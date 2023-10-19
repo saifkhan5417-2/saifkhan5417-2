@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **saifkhan5417.it@gmail.com**
+- 📫 How to reach me **[saifkhan5417.it@gmail.com](https://www.linkedin.com/in/saif-khan-84418522a/)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19-r_RcQ0FfFn8t6aDaZzktGJ6scJx2HB/view?usp=sharing](https://drive.google.com/file/d/19-r_RcQ0FfFn8t6aDaZzktGJ6scJx2HB/view?usp=sharing)
 
