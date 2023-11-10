@@ -24,6 +24,7 @@
 <a href="https://www.linkedin.com/in/saif-khan-84418522a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saif-khan-84418522a/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100031984179730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100031984179730" height="30" width="40" /></a>
 <a href="https://instagram.com/ittz_me_saif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
+  <a href="https://mail.google.com/mail/u/0/#advanced-search/to=saifkhan5417.it%40gmail.com&query=in%3Asent&isrefinement=true&todisplay=Saifkhan+5417?compose=new" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="https://mail.google.com/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
